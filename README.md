@@ -1,3 +1,3 @@
 # 有机博客空间
 
-create contents for learnings and sharings.
+Create contents for learnings and sharings. Github page served at [见习](https://realyukiko.github.io/yuki-notebook/).
