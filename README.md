@@ -1,2 +1,3 @@
-# 有机业务
-这个项目存放着 有机酱 好单纯好不做作的开发笔记。
+# 有机博客空间
+
+create contents for learnings and sharings.
